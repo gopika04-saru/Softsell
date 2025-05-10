@@ -90,6 +90,7 @@ The dashboard serves as a control center to visualize processes, access valuatio
 
 ## 📁 Folder Structure
 
+```
 📁 src
 ├── 📁 assets           # Images, icons
 ├── 📁 components       # Reusable UI components
@@ -101,7 +102,7 @@ The dashboard serves as a control center to visualize processes, access valuatio
 |   └── Testimonials.jsx
 ├── App.jsx            # Main app layout
 └── index.js 
-
+```
 ---
 
 ## 📞 Contact Us
