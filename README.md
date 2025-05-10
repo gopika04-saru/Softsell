@@ -51,7 +51,7 @@ The dashboard serves as a control center to visualize processes, access valuatio
 
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/your-username/softsell-dashboard.git
+   git clone https://github.com/gopika04-saru/Softsell
    cd softsell-dashboard
 
    ```
